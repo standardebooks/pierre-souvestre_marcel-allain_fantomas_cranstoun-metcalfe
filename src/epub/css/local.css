@@ -1,4 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-.telegram{ font-variant: all-small-caps; }
+.telegram{
+	font-variant: all-small-caps;
+}
