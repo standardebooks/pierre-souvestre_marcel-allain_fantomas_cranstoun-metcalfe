@@ -42,32 +42,28 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">A shapeshifting arch-villain terrorizes Parisian society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			<p>The savage murder of the Marquise de Langrune in her chateau leaves local authorities baffled, but the preeminent detective from Paris, Inspector Juve, recognizes in the case the hand of Fantômas—a criminal so prodigiously evil and elusive that many consider him to be a myth. Following the arch-criminal’s trail of murders, jewelry heists, and bombings, the indomitable Juve tracks suspects from the dive bars of the underworld to the ballrooms of high society, donning as many disguises as his shapeshifting nemesis in his relentless pursuit.</p>
-			<p>Appearing in 1911, <i>Fantômas</i> was first conceived when publisher Arthème Fayard enlisted Pierre Souvestre and Marcel Allain to create a new series that would capitalize on the French public’s appetite for detective novels—Arsène Lupin, Zigomar, and Nick Carter were already popular characters whose exploits could be read in periodicals of the time. The two collaborators used an ingenious form of literary mass production, with each one writing alternate chapters, to write a sequel every month for several years. Elaborate crimes, technological gadgetry, and gruesome violence made the series a hit with the public—the 32 volumes written by Souvestre and Allain sold over five million copies—but Fantômas reached beyond the typical audience for pulp fiction, as well. Luminaries of the avant-garde—Guillaume Apollinaire, André Breton, Max Jacob, and René Magritte, among others—praised and paid tribute to <i>Fantômas</i> in prose, poetry, and paintings, appreciating the surreal and imaginative nature of the novels’ impossible paradoxes and shifting identities.</p>
+			&lt;p&gt;The savage murder of the Marquise de Langrune in her chateau leaves local authorities baffled, but the preeminent detective from Paris, Inspector Juve, recognizes in the case the hand of Fantômas—a criminal so prodigiously evil and elusive that many consider him to be a myth. Following the arch-criminal’s trail of murders, jewelry heists, and bombings, the indomitable Juve tracks suspects from the dive bars of the underworld to the ballrooms of high society, donning as many disguises as his shapeshifting nemesis in his relentless pursuit.&lt;/p&gt;
+			&lt;p&gt;Appearing in 1911, &lt;i&gt;Fantômas&lt;/i&gt; was first conceived when publisher Arthème Fayard enlisted &lt;a href="https://standardebooks.org/ebooks/pierre-souvestre"&gt;Pierre Souvestre&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/marcel-allain"&gt;Marcel Allain&lt;/a&gt; to create a new series that would capitalize on the French public’s appetite for detective novels—Arsène Lupin, Zigomar, and Nick Carter were already popular characters whose exploits could be read in periodicals of the time. The two collaborators used an ingenious form of literary mass production, with each one writing alternate chapters, to write a sequel every month for several years. Elaborate crimes, technological gadgetry, and gruesome violence made the series a hit with the public—the 32 volumes written by Souvestre and Allain sold over five million copies—but Fantômas reached beyond the typical audience for pulp fiction, as well. Luminaries of the avant-garde—Guillaume Apollinaire, André Breton, Max Jacob, and René Magritte, among others—praised and paid tribute to &lt;i&gt;Fantômas&lt;/i&gt; in prose, poetry, and paintings, appreciating the surreal and imaginative nature of the novels’ impossible paradoxes and shifting identities.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/27794</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/012348885</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Fant%C3%B4mas</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/pierre-souvestre_marcel-allain_fantomas_cranstoun-metcalfe</meta>
 		<dc:creator id="author-1">Pierre Souvestre</dc:creator>
 		<meta property="file-as" refines="#author-1">Souvestre, Pierre</meta>
-		<meta property="se:name.person.full-name" refines="#author-1">Pierre Souvestre</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Pierre_Souvestre</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/n82127150</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
 		<dc:creator id="author-2">Marcel Allain</dc:creator>
 		<meta property="file-as" refines="#author-2">Allain, Marcel</meta>
-		<meta property="se:name.person.full-name" refines="#author-2">Marcel Allain</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Marcel_Allain</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/n82127131</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Cranstoun Metcalfe</dc:contributor>
 		<meta property="file-as" refines="#translator">Metcalfe, Cranstoun</meta>
-		<meta property="se:name.person.full-name" refines="#translator">Cranstoun Metcalfe</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#artist">Anonymous</meta>
