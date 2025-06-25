@@ -54,12 +54,12 @@
 		<dc:creator id="author-1">Pierre Souvestre</dc:creator>
 		<meta property="file-as" refines="#author-1">Souvestre, Pierre</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Pierre_Souvestre</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/n82127150</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/n82127150</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
 		<dc:creator id="author-2">Marcel Allain</dc:creator>
 		<meta property="file-as" refines="#author-2">Allain, Marcel</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Marcel_Allain</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/n82127131</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/names/n82127131</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Cranstoun Metcalfe</dc:contributor>
 		<meta property="file-as" refines="#translator">Metcalfe, Cranstoun</meta>
