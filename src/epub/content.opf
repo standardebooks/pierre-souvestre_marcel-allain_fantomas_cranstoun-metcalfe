@@ -49,7 +49,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/27794</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/012348885</dc:source>
-		<meta property="se:word-count">102054</meta>
+		<meta property="se:word-count">102055</meta>
 		<meta property="se:reading-ease.flesch">70.73</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/pierre-souvestre_marcel-allain_fantomas_cranstoun-metcalfe</meta>
 		<dc:creator id="author-1">Pierre Souvestre</dc:creator>
