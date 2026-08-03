@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/pierre-souvestre_marcel-allain/fantomas/cranstoun-metcalfe</dc:identifier>
 		<dc:date>2025-04-21T03:55:39Z</dc:date>
@@ -42,11 +42,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Fantômas</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">A shapeshifting arch-villain terrorizes Parisian society.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A shapeshifting arch-villain terrorizes Parisian society.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The savage murder of the Marquise de Langrune in her chateau leaves local authorities baffled, but the preeminent detective from Paris, Inspector Juve, recognizes in the case the hand of &lt;a href="https://standardebooks.org/collections/fantomas"&gt;Fantômas&lt;/a&gt;—a criminal so prodigiously evil and elusive that many consider him to be a myth. Following the arch-criminal’s trail of murders, jewelry heists, and bombings, the indomitable Juve tracks suspects from the dive bars of the underworld to the ballrooms of high society, donning as many disguises as his shapeshifting nemesis in his relentless pursuit.&lt;/p&gt;
 			&lt;p&gt;Appearing in 1911, &lt;i&gt;Fantômas&lt;/i&gt; was first conceived when publisher Arthème Fayard enlisted &lt;a href="https://standardebooks.org/ebooks/pierre-souvestre_marcel-allain"&gt;Pierre Souvestre and Marcel Allain&lt;/a&gt; to create a new series that would capitalize on the French public’s appetite for detective novels—&lt;a href="https://standardebooks.org/collections/arsene-lupin"&gt;Arsène Lupin&lt;/a&gt;, Zigomar, and Nick Carter were already popular characters whose exploits could be read in periodicals of the time. The two collaborators used an ingenious form of literary mass production, with each one writing alternate chapters, to write a sequel every month for several years. Elaborate crimes, technological gadgetry, and gruesome violence made the series a hit with the public—the 32 volumes written by Souvestre and Allain sold over five million copies—but Fantômas reached beyond the typical audience for pulp fiction, as well. Luminaries of the avant-garde—Guillaume Apollinaire, André Breton, Max Jacob, and René Magritte, among others—praised and paid tribute to &lt;i&gt;Fantômas&lt;/i&gt; in prose, poetry, and paintings, appreciating the surreal and imaginative nature of the novels’ impossible paradoxes and shifting identities.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/27794</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/012348885</dc:source>
