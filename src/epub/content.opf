@@ -75,8 +75,8 @@
 		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Online Distributed Proofreading Team, The</meta>
+		<dc:contributor id="transcriber-2">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Distributed Proofreaders</meta>
 		<link href="https://www.pgdp.net/" refines="#transcriber-2" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Dylan Werner</dc:contributor>
